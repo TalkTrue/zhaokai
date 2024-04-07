@@ -1,0 +1,25 @@
+{
+    "name": "webmozart/assert",
+    "description": "zhaokai Test",
+    "license": "MIT",
+    "keywords": [
+        "zhaokai",
+    ],
+    "authors": [
+        {
+            "name": "talktrue",
+            "email": "705219520@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+           "zhaokai\\": "src/",
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "zhaokai\\": "src/",
+        }
+    },
+    }
+}
