@@ -3,7 +3,7 @@
     "description": "zhaokai Test",
     "license": "MIT",
     "keywords": [
-        "zhaokai",
+        "zhaokai"
     ],
     "authors": [
         {
@@ -13,13 +13,13 @@
     ],
     "autoload": {
         "psr-4": {
-           "zhaokai\\": "src/",
+           "zhaokai\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "zhaokai\\": "src/",
+            "zhaokai\\": "src/"
         }
-    },
     }
+    
 }
